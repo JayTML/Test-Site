@@ -1,0 +1,500 @@
+@charset "UTF-8";
+/* CSS Document */
+/*Head*/
+/*Body*/
+
+body{
+	background-color: #566C3E;
+	height: auto;
+}
+
+
+/* Navbar */
+.navbar{
+	height: 150px;
+    background-color: #454545;
+}
+
+.navbar-brand{
+	font-size: 100px;
+	padding-left: 55px;
+	margin-top: -15px;
+	color: #FFFFFF;
+}
+
+.nav-link{
+	width: 200px;
+	font-size: 40px;
+	color: #FFFFFF;
+	margin-left: 75px;
+	margin-top: -94px;
+}
+
+.cf-nav{
+	background-color: #999999;
+	height: 40px;
+}
+.navbar-toggler{
+	margin-right: 125px;
+}
+
+.navbar-toggler-icon{
+	
+}
+.navbar-light{
+	background-color: #171907;
+    
+}
+
+.cf-nav{
+	
+background-color: #33430a;
+}
+
+#linkcolor{
+	
+	color: #FFFFFF;
+	
+}
+/* End Navbar */
+
+/*-----------------*/
+/* Grid */
+
+.container{
+	height: 40px;
+	margin-top: -450px;
+	color: aqua;
+}
+.row{
+	height: 500px;
+	text-align: center;
+}
+
+.redborder{
+	border: solid red 0px;
+}
+
+/* Grid */
+/*-----------------*/
+/* images */
+.img-fluid{
+	margin-top: -30px;
+}
+
+.camp{
+	margin-top: 10px;
+}
+/*- - - - -FONT STYLES- - - - - -*/
+
+
+@font-face {
+font-family:"sunshine";
+src:url("https://use.typekit.net/af/9b2588/000000000000000077359e1f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/9b2588/000000000000000077359e1f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/9b2588/000000000000000077359e1f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+.tk-sunshine { font-family: "sunshine",sans-serif;
+font-size: 160px;
+	margin: auto -175px;
+	color: #6D4900;
+	margin-top: -300px;
+}
+
+.tk-boucherie-sans { font-family: "boucherie-sans",sans-serif;
+font-size:110px;
+	color: #F2CA7A;
+	margin-bottom: -30px;
+	margin-top:-50px;
+;
+}
+
+.tk-forma-djr-deck { font-family: "forma-djr-deck",sans-serif; 
+font-size: 25px;
+line-height: 30px;
+	letter-spacing: .65px;
+	color: white;
+}
+/* - - - - End FONT STYLES - - - - -*/
+/******************GALLERY************TRAILS*******************MAP********************/
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.tk-boucherie-flared a{ font-family: "boucherie-flared",sans-serif;
+font-size: 55px;
+	color:white;
+	background-color: #749F11;
+}
+
+#bar{
+	height:30px;
+	width: 1800px;
+	background-color: #749F11;
+
+}
+
+/******************GALLERY************TRAILS*******************MAP********************/
+/* images */
+
+/*-----------------*/
+/*   about  */
+
+.about{
+	height: 300px;
+	padding-top: 35px;
+}
+.section{
+	margin-top: 387px;
+	margin-bottom: 150px;
+}
+
+
+
+
+/*   about   */
+
+/*-----------------*/
+  /* ad section */
+.ad{
+	height: 200px;
+	border-top: solid #AA5400 8px;
+	border-bottom: solid #AA5400 8px;
+	margin-top:-145px;
+	background-color: #566C3E;
+}
+
+.adnone{
+	height: 200px;
+	border-top: solid #AA5400 0px;
+	border-bottom: solid #AA5400 0px;
+	margin-top:-145px;
+	background-color: #566C3E;
+}
+
+
+
+/* ad section */
+
+/*-----------------*/
+
+/*^&&^&^&^&^ HISTORY*/
+.history{
+	margin-top: 15px;
+}
+
+
+
+/**&*&*&*&* history*/
+
+/*margin*/
+.picnicarea{
+	margin-top: 15px;}
+.amenities
+{margin-top: 15px;}
+
+/*margin*
+
+
+
+/* .    amenities     *//* .    amenities     *//* .    amenities     */
+
+
+.amenitiescon{
+	margin-bottom: 150px;
+}
+
+
+/* .    amenities      *//* .    amenities     *//* .    amenities     */
+/* . CONTACT */
+
+.contact{
+	margin-top: 30px;
+	height: 550px;
+}
+.ContactCol{
+	height:550px;
+}
+.form-label{
+
+	float: left;
+}
+.form-control2{
+	width:620px;
+}
+.form-control{
+	width: 300px;
+	align-content: left;
+}
+
+.btn-secondary{
+	margin-right:-520px;
+	width: 100px;
+	height:50px;
+	color: #fff7ad;
+	background-color: #171807;
+}
+
+
+/* contact */
+
+
+
+/* Footer*/
+.footer{
+	height:800px;
+	margin-top: 40px;
+}
+.FooterCol{
+	height:500px;
+}
+.FooterCol2{
+	height:60px;
+}
+.cropped2 {
+    margin-top: 24px;
+	width: 450px;
+    height: 450px; 
+    object-fit: cover;
+    object-position: -20px 0px; /* try 20px 10px */ 
+    border: 5px solid black;
+}
+.list{
+	list-style-type: none;
+	margin-top: 35px;
+}
+li{
+	margin-top: 110px;
+}
+
+/* end footer*/
+
+/*********MAP*********/
+
+#map {
+	width:  800px ;
+	height: 400px ;
+	border: 1px solid black ;
+	border: none ;
+	margin: 83px auto;
+	
+}
+
+.containerMap{
+	background-color: #566C3E;
+}
+.mapcol{
+	align-content: center;
+	height: 575px;
+	background-color:  #566C3E;
+}
+.leftcol{
+	height: 575px;
+	background-color:  #566C3E;
+}
+.rightcol{
+	height: 575px;
+	background-color:  #566C3E;
+}
+
+
+.rowstripe{
+	height: 400px;
+	width: auto;
+	background-color: #222B1A;
+	margin-top: -483px;
+}
+
+.Maprow{
+	height: 50px;
+	width: auto;
+	
+}
+/********* end MAP*********/
+/*=========GALLERY=========*/
+#gallery{
+    width: auto;
+	height: 400px;
+	background-color: #222B1A;
+	margin-top: 80px;
+}
+/*========= end GALLERY=========*/
+ /* $$$$$$$$$$ BEGIN SLIDESHOW $$$$$$$$$$*/
+.SlideshowWrapper {
+	width: 600px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px solid #77AAEE;
+	border-style:inset;
+	margin-top: 80px;
+}
+
+
+#MySlideshow {
+	width: 500px;
+	background-color: none ;
+}
+
+.rowstripeT{
+	height: 399px;
+	width: auto;
+	background-color: #222B1A;
+	margin-top: -295px;
+}
+ /* $$$$$$$$$$ END SLIDESHOW $$$$$$$$$$*/
+
+/*banner*/
+
+.banner{
+	height: 185px;
+	
+}
+
+/* end banner */
+/*col*/
+
+
+
+
+
+
+/*end col*/
+/*>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<SIGHTS>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<*/
+
+
+.Sights{
+	margin-top: 130px;
+	margin-bottom: -70px;
+}
+
+.bar{
+	
+	height: 10px;
+	margin-top: 100px;
+	border-bottom: solid #B19500 8px;
+	margin-bottom: -115px;
+	
+	
+
+}
+	
+.Sightrow{
+		height: 200px;
+	text-align: center;
+	margin-top: 80px;
+}
+
+#green{
+	background-color: #566C3E;
+}
+
+h2{
+	font-size: 150px;
+	margin-bottom: 30px;
+	margin: auto auto;
+	
+}
+.MT{
+	margin-top: 30px;
+}
+
+.Minsi{
+	background-color: #222B1A;
+	height: 2500px;
+}
+
+.rowM{
+	height: 50px;
+	text-align: center;
+	margin-top: 45px;
+}
+
+h3{
+	
+	font-size: 150px;
+	margin-bottom: 30px;
+	padding-top: 80px;
+	margin: auto auto;
+	height: 400px;
+
+	
+	
+}
+
+.SightsMain{
+	margin-top: -47px;
+	height: 100px;
+}
+
+.tk-boucherie-flared { font-family: "boucherie-flared",sans-serif;
+font-size: 100px;
+	color: #F2CA7A;
+	margin-top: -20px;
+}
+
+.Tammany{
+	height: 450px;
+	padding-top: 35px;
+}
+
+.img-fluid MT{
+	
+}
+/*>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<END SIGHTS>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<*/
+
+
+/* . *  Video  * . * */
+
+.Window{
+	margin-left: -500px;
+	height: 1000px;
+	margin-top: 450px;
+	align-content: center;
+} 
+
+
+/* . *  End Video  * . * */
+/*  begin Footer*/
+.footer{
+	background-color: #000000;
+	height: 1000px;
+}
+
+.list{
+	color: white;
+}
+
+.last{
+	color: white;
+}
+
+/* end footer*/
+
+/* . lOGO .   */
+
+
+.logo {
+	
+margin-top: -10px;
+
+	
+}
+
+
+/*    end Logo .   */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
